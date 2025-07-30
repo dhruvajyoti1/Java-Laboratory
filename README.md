@@ -1,5 +1,9 @@
 # Java-Laboratory
 
+Module 1: Fundamentals & Basic Programming
+
+This module covers the initial setup of a Java development environment and the fundamentals of Java programming. The objective is to write, compile, and run basic programs while understanding primitive data types, variables, and operators.
+
 1️⃣ Program: HelloWorld
 
 📖 Description
